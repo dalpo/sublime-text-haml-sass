@@ -8,7 +8,7 @@ I pilfered them from other repos on GitHub, after searching for ones that were c
 AUTOMATIC INSTALLATION:
 
 Open terminal and execute this:
-bash < <(curl -s https://raw.github.com/MrTin/sublime-text-haml-sass/master/binscripts/curl-installer.sh)
+bash < <(curl -s https://raw.github.com/MrTin/sublime-text-haml-sass/master/curl-installer.sh)
 
 
 ALTERNATIVE INSTALLATION:
