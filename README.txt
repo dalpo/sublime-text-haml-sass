@@ -11,7 +11,13 @@ Haml: https://github.com/phuibonhoa/handcrafted-haml-textmate-bundle
 Sass: https://github.com/charlesr/ruby-sass-tmbundle
 
 
-INSTALLATION:
+AUTOMATIC INSTALLATION:
+
+Open terminal and execute this:
+bash < <(curl -s https://raw.github.com/MrTin/sublime-text-haml-sass/master/curl-installer.sh)
+
+
+ALTERNATIVE INSTALLATION:
 
 1. On OS X, go to menu bar: "Sublime Text 2 > Preferences > Browse Packages..."
    - Alternate method, in Terminal:
