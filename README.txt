@@ -1,8 +1,14 @@
 EXPLANATION:
 
-These are TextMate syntax highlighting files that work with Sublime Text 2.
+TextMate bundles for syntax highlighting, known to work with Sublime Text 2.
 
-I pilfered them from other repos on GitHub, after searching for ones that were compatible.
+I didn't make these. Just threw 'em in a repo, so I'd remember which worked.
+
+Questions & Credit should go to the original authors:
+
+Haml: https://github.com/phuibonhoa/handcrafted-haml-textmate-bundle
+
+Sass: https://github.com/charlesr/ruby-sass-tmbundle
 
 
 INSTALLATION:
@@ -13,6 +19,6 @@ INSTALLATION:
 
 2. Once that folder is open, close Sublime Text 2.
 
-3. Move the two directories: /Ruby Sass/, and /Ruby Haml/ to that folder.
+3. Move the two directories, "/Ruby Sass/" and "/Ruby Haml/" to that folder.
 
 4. Restart Sublime Text 2.
